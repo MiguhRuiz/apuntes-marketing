@@ -58,3 +58,7 @@ El algoritmo de Facebook selecciona 300 de entre 1500 posts y nos lo muestra en 
 En Twitter podemos publicar más pero es más dificil llegar a la gente en 140 caracteres.
 
 En Instagram la mayoría de usuarios son de 25-35 años y están concentrados en esta red social por lo que debemos de estar allí y su NewsFeed que no discrimina.
+
+## Publicidad Pagada
+
+Los anuncios de Adwords se sienten pesados. La publicidad nos molesta e incluso ya llegamos a ignorar la parte donde suelen mostrarse por lo que es estúpido invertir en este canal. Es preferible hacerlo en redes sociales que no interrumpe el fin del usuario y al fin y al cabo las consume para ver contenido.
